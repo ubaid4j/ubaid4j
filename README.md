@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1)](https://github.com/UbaidurRehman1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook)](https://github.com/UbaidurRehman1/github-readme-stats)
 
 ---
 
