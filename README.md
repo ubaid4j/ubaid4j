@@ -22,12 +22,12 @@
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 
 <br />
 <br />
