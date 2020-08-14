@@ -32,15 +32,16 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 [![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true)](https://github.com/UbaidurRehman1/github-readme-stats)
 
-
-<br/>
-<br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook)](https://github.com/UbaidurRehman1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook&layout=compact)](https://github.com/UbaidurRehman1/github-readme-stats)
 
 ---
 
