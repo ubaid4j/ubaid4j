@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything about Java and related stuff
 - 👯 I’m looking to become Java Champion
 - 🥅 2020 Goals: Contribute more to Open Source projects and write Blog Posts
-- ⚡ Fun fact: I love to watch TikTok in my free time 🤣
+- ⚡ Fun fact: I love to watch Sci-fi seasons in my free time 🤣
 
 <br/>
 
@@ -42,19 +42,17 @@
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Connect with me:
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br/>
+<br/>
+<br/>
 
 
 [![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true)](#)
