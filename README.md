@@ -12,7 +12,6 @@
 
 ### Primary Language
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<br>
 
 ### Scripting Languages
 <img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
