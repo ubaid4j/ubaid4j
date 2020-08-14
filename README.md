@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything about Java and related stuff
 - 👯 I’m looking to become Java Champion
 - 🥅 2020 Goals: Contribute more to Open Source projects and write Blog Posts
-- ⚡ Fun fact: I love to watch TikTock in my free time 🤣
+- ⚡ Fun fact: I love to watch TikTok in my free time 🤣
 
 ### Connect with me:
 
