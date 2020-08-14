@@ -32,6 +32,8 @@
 <br />
 <br />
 
+[![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true)](https://github.com/UbaidurRehman1/github-readme-stats)
+
 ---
 
 [website]: https://techno-soft.com/
