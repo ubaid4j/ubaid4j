@@ -29,10 +29,18 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 [![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true)](https://github.com/UbaidurRehman1/github-readme-stats)
+
+
+<br/>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1)](https://github.com/UbaidurRehman1/github-readme-stats)
 
 ---
 
