@@ -52,7 +52,7 @@
 <br/>
 
 ### Education
-[<img alt="nust" alt="nust" width="32px" src="https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png"/>][seecs-nust] Bachelor of Software Engineering 
+[<img alt="nust" alt="Bachelor of Software Engineering" width="48px" src="https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png"/>][seecs-nust]
 
 
 <br/>
