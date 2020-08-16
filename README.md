@@ -40,21 +40,18 @@
 <img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg">
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 
-<br/>
-
-### Connect with me:
-
-
-[<img align="left" alt="technosoft" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
+</br>
 
 ### Education
 [<img alt="nust" alt="Bachelor of Software Engineering" width="48px" src="https://seeklogo.com/images/N/nust-logo-E161A9240F-seeklogo.com.png"/>][seecs-nust]
 
 
+### Connect with me:
+[<img align="left" alt="technosoft" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
 <br/>
 <br/>
 
