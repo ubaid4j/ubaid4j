@@ -56,11 +56,11 @@
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UbaidurRehman1&theme=highcontrast)](#)
-[![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true)](#)
+[![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true&theme=highcontrast)](#)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook,php&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook,php&layout=compact&theme=highcontrast)](#)
 
 ---
 
