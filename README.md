@@ -14,16 +14,13 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 ### Scripting Languages
-<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ### Frameworks
 <img align="left" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img height="48" src="https://ionicframework.com/img/meta/logo.png">
 
 ### Databases
 <img  align="left" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
