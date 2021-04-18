@@ -20,7 +20,7 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ### Frameworks
-<img align="left" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 
 ### Databases
 <img  align="left" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
