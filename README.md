@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at [Technosoft][website]!
 - 🌱 I’m currently learning everything about Java and related stuff
 - 👯 I’m looking to become Java Champion
-- 🥅 2021 Goals: Contribute more to Open Source projects and write Blog Posts
+- 🥅 2022 Goals: Contribute more to Open Source projects and write Blog Posts
 - ⚡ Fun fact: I love to watch Sci-fi seasons in my free time 🤣
 
 <br/>
