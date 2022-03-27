@@ -34,7 +34,6 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" height="48" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg">
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 
 </br>
