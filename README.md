@@ -43,25 +43,22 @@
 
 
 ### Connect with me:
-[<img align="left" alt="technosoft" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 <br/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UbaidurRehman1&theme=highcontrast)](#)
-[![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=UbaidurRehman1&count_private=true&show_icons=true&theme=highcontrast)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubaid4j&theme=highcontrast)](#)
+[![ubaid's github stats](https://github-readme-stats.vercel.app/api?username=ubaid4j&count_private=true&show_icons=true&theme=highcontrast)](#)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidurRehman1&hide=jupyter%20notebook,php&layout=compact&theme=highcontrast)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaid4j&hide=jupyter%20notebook,php&layout=compact&theme=highcontrast)](#)
 
 ---
 
 [website]: https://techno-soft.com/
-[twitter]: https://twitter.com/Ubaidshan
-[instagram]: https://www.instagram.com/ubaid4j
-[linkedin]: https://www.linkedin.com/in/ubaid-ur-rehman-5a0118119/
+[twitter]: https://twitter.com/ubaid4j
+[linkedin]: https://www.linkedin.com/in/ubaid4j
 [seecs-nust]: http://www.nust.edu.pk/INSTITUTIONS/Schools/SEECS/Pages/default.aspx 
